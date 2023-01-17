@@ -36,6 +36,10 @@ The **3D'omics code hub** is the common space to develop, share and discuss abou
 
 3D'omics is a H2020 project that aims to reconstruct host-microbiota interactions in 3D at the micro-scale through a novel technology. Using poultry and swine production systems, we are analysing the effects of different factors, including animal development, diet, exposure to pathogens, and management practices on the so-called 3D omics landscapes of animal intestines. Further information about the project can be found in the [project website](https://www.3domics.eu/).
 
+## Why cannot I access some repositories?
+
+3D'omics is an ongoing project, and as such, many of the code chunks and pipelines stored in this hub are under development. For that reason, some of the repositories are only accessible for project members. When those repositories contain consolidated contents, we will make them public so that other researchers can also implement the procedures in their research.
+
 ```
 This project has received funding from the European Union’s Horizon 2020 Research and Innovation programme under grant agreement number No. 101000309
 ```
