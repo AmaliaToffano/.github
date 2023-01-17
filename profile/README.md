@@ -1,2 +1,2 @@
 Entry page
-[](3domics-logo.png)
+![](3domics-logo.png)
