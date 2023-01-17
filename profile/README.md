@@ -10,7 +10,7 @@ The **3D'omics code hub** is the common space to develop, share and discuss abou
 #### Macro-scale multi-omics
 
 * Host genomics
-* Host transcriptomics
+* [Host transcriptomics](https://github.com/3d-omics/Bioinfo_Macro_Host_Transcriptomics)
 * Microbial genome-resolved metagenomics
 * Microbial mapping-based metagenomics
 * Microbial metatranscriptomics
