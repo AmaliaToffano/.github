@@ -3,7 +3,7 @@
 
 ## Welcome to the 3D'omics code hub
 
-The **3D'omics code hub** is the common space to develop, share and discuss about bioinformatic and statistical code used in 3D'omics. It contains multiple repositories dedicates to specific data processing and analysis steps.
+The **3D'omics code hub** is the common space to develop, share and discuss about bioinformatic and statistical code used in 3D'omics. It contains multiple repositories dedicated to specific data processing and analysis steps. 3D'omics deals with two main types of omic data, conventional data generated at the macroscopic level (from faecal samples, gut contents, mucosal scrapes, etc.), and data generated at the micro-scale from microdissections. The multiple repositories stored in this hub are organised accordingly:
 
 ### Bioinformatics
 
