@@ -32,6 +32,16 @@ The **3D'omics code hub** is the common space to develop, share and discuss abou
 
 * ...
 
+## Reference genomes
+
+In 3D'omics we are analysing host genomic and microbial metagenomic data of various animals and their associated microbial communities. Many of the pipelines included in this code hub require the usage of reference animal genomes, for removing host reads, for mapping against protein-coding genes, etc. The reference genomes selected for 3D'omics analyses are the following:
+
+### Swine (Sus scrofa)
+
+**Reference assembly**: https://www.ncbi.nlm.nih.gov/genome/84?genome_assembly_id=317145
+**Sequence**: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_genomic.fna.gz
+**Annotations**: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_genomic.gff.gz
+
 ## What is 3D'omics?
 
 3D'omics is a H2020 project that aims to reconstruct host-microbiota interactions in 3D at the micro-scale through a novel technology. Using poultry and swine production systems, we are analysing the effects of different factors, including animal development, diet, exposure to pathogens, and management practices on the so-called 3D omics landscapes of animal intestines. Further information about the project can be found in the [project website](https://www.3domics.eu/).
