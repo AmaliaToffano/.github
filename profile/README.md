@@ -38,9 +38,9 @@ In 3D'omics we are analysing host genomic and microbial metagenomic data of vari
 
 ### Swine (Sus scrofa)
 
-**Reference assembly**: https://www.ncbi.nlm.nih.gov/genome/84?genome_assembly_id=317145
-**Sequence**: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_genomic.fna.gz
-**Annotations**: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_genomic.gff.gz
+* **Reference assembly**: https://www.ncbi.nlm.nih.gov/genome/84?genome_assembly_id=317145
+* **Sequence**: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_genomic.fna.gz
+* **Annotations**: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/003/025/GCF_000003025.6_Sscrofa11.1/GCF_000003025.6_Sscrofa11.1_genomic.gff.gz
 
 ## What is 3D'omics?
 
