@@ -3,34 +3,32 @@
 
 ## Welcome to the 3D'omics code hub
 
-The **3D'omics code hub** is the common space to develop, share and discuss about bioinformatic and statistical code used in 3D'omics. It contains multiple repositories dedicated to specific data processing and analysis steps. 3D'omics deals with two main types of omic data, conventional data generated at the macroscopic level (from faecal samples, gut contents, mucosal scrapes, etc.), and data generated at the micro-scale from microdissections. The multiple repositories stored in this hub are organised accordingly:
+The **3D'omics code hub** is the common space to develop, share and discuss about bioinformatic and statistical code used in 3D'omics. It contains multiple repositories dedicated to specific data processing and analysis steps. 3D'omics deals with two main types of omic data, conventional data generated at the macroscopic level (from faecal samples, gut contents, mucosal scrapes, etc.), and data generated at the micro-scale from intestinal microdissections. The multiple repositories stored in this hub are organised accordingly:
 
 ### Bioinformatics
+Bioinformatics repositories are snakemake-based pipelines converting raw sequencing files into datasets ready for downstream statistical analyses and visualisations.
 
 #### Macro-scale multi-omics
 
-* Host genomics
+* [Host genomics](https://github.com/3d-omics/Bioinfo_Macro_Host_Genomics)
 * [Host transcriptomics](https://github.com/3d-omics/Bioinfo_Macro_Host_Transcriptomics)
-* Microbial genome-resolved metagenomics
-* Microbial mapping-based metagenomics
-* Microbial metatranscriptomics
-* ...
+* [Microbial genome-resolved metagenomics](https://github.com/3d-omics/Bioinfo_Macro_Genome_Resolved_Metagenomics)
+* [Microbial metatranscriptomics](https://github.com/3d-omics/Bioinfo_Macro_Microbial_Metatranscriptomics)
 
 #### Micro-scale multi-omics
+These repositories are under development.
 
 * Microbial metagenomics
 * Microbial metatranscriptomics
-* ...
 
 ### Statistics
+Statistics repositories principally contain RMarkdown documents with useful scripts for analysing both macro- and micro-scale multi-omic data.
 
 #### Macro-scale multi-omics
-
-* ...
+These repositories are under development.
 
 #### Micro-scale multi-omics
-
-* ...
+These repositories are under development.
 
 ## Reference genomes
 
