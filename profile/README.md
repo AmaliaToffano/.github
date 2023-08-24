@@ -7,6 +7,28 @@ The **3D'omics code hub** is the common space to develop, share and discuss abou
 
 ### Bioinformatics
 Bioinformatics repositories are snakemake-based pipelines converting raw sequencing files into datasets ready for downstream statistical analyses and visualisations.
+If you don't have snakemake installed, you can do it on your terminal through miniconda, using the following lines of code
+
+
+  ```
+  # Download the installer script (linux)
+  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  # Make the script executable
+  chmod +x Miniconda3-latest-Linux-x86_64.sh
+  # Run the installer script
+  ./Miniconda3-latest-Linux-x86_64.sh
+  # Create a conda environment for Snakemake, you can substitute 'snakemake' with the name you want to assign to the environment
+  conda create -n snakemake
+  # Activate the environment
+  conda activate snakemake
+  # Install snakemake
+  pip install snakemake==7.28.3
+  # Deactivate environment once you are done using snakemake
+  conda deactivate
+```
+
+![image](https://github.com/3d-omics/.github/assets/103645443/84280f4f-d381-467b-8094-28fb730476ef)
+
 
 #### Macro-scale multi-omics
 
